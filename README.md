@@ -101,6 +101,7 @@ Build a comprehensive financial dashboard to:
 > Uploaded:
 > `FPT Retail Finance Dashboard.pbix`
 > `financebi1.jpg`, `financebi2.jpg`, `financebi3.jpg`
+> `dau_tu_tai_chinh_1.rar.zip`
 
 
 ---
